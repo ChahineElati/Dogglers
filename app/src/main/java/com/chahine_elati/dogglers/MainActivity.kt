@@ -3,7 +3,7 @@ package com.chahine_elati.dogglers
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.iset.dogglers.databinding.ActivityMainBinding
+import com.chahine_elati.dogglers.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
